@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohammed Zeyad</h1>
 <h3 align="center">Front End Web Developer</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedalbilbeisi" alt="mohammedalbilbeisi" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@mohammed_zeyad1" target="blank"><img src="https://img.shields.io/twitter/follow/@mohammed_zeyad1?logo=twitter&style=for-the-badge" alt="@mohammed_zeyad1" /></a> </p>
+
 - 👨‍💻 MY Portfolio [https://mohammmedzeyad1.herokuapp.com/](https://mohammmedzeyad1.herokuapp.com/)
 
 <h3 align="left">Connect with me:</h3>
