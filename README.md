@@ -5,7 +5,7 @@
 
 
 
-- 👨‍💻 MY Portfolio [https://mohammmedzeyad1.herokuapp.com/](https://mohammmedzeyad1.herokuapp.com/)
+- 👨‍💻 MY Portfolio : https://mohammedzeyad.netlify.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
